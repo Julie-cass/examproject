@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+api needs to be run while looking on the website/exam project  
+https://github.com/webkollegiet-opgaver/svendeprove-believe-fitness-api
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
